@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Adactin Project
+## Adactin Project Structure
 
 *Default Structure for A Basic Project*
 
